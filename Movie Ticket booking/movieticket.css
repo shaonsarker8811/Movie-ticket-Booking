@@ -1,0 +1,9 @@
+body{
+    background-color: #ccc;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main{
+    border-radius: 10px;
+    box-shadow: 10px 10px 90px -60px #000;
+}
